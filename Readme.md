@@ -4,4 +4,6 @@ It will be useful if you have many databases in a MAMP environment and need to b
 
 Just set username, password for mysql, output directory and run:
 
+```
 node index.js
+```
