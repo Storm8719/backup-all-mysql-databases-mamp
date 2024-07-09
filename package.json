@@ -1,0 +1,11 @@
+{
+  "name": "mamp-mysql-databases-backup",
+  "version": "1.0.0",
+  "description": "Node js script to create backup copies of all mysql databases from Mamp in separate files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "storm8719@gmail.com",
+  "license": "ISC"
+}
